@@ -9,12 +9,11 @@
 
 # Files to ignore
 sandbox.py
+commit_message.txt
 
 # Project Data files
 *.xlsx
 *.csv
-*.txt
-*.json
 
 # Files to include
 !LICENSE.txt

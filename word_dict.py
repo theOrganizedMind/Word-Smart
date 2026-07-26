@@ -668,6 +668,33 @@ word_dict = {
     "Penitent": "sorry; repentant; contrite", 
     "Pensive": "thoughtful and sad",
     # Section 63
+    "Peremptory": "final; categorical; dictatorial",
+    "Perennial": "continual; happening again and again or year after year",
+    "Perfidy": "treachery",
+    "Perfunctory": "unenthusiastic; careless",
+    "Peripatetic": "wandering; traveling continually; itinerant",
+    "Periphery": "the outside edge of something",
+    "Perjury": "lying under oath",
+    "Permeate": "to spread or seep through; to penetrate",
+    "Pernicious": "deadly; extremely evil",
+    "Perquisite": "a privilege that goes along with a job; a 'perk'",
+    "Pertinent": "relevant; dealing with with matter at hand",
+    "Perturb": "to disturb greatly",
+    "Peruse": "to read carefully",
+    # Section 64
+    "Pervade": "to spread throughout",
+    "Petulant": "rude; cranky; ill-tempered",
+    "Philanthropy": "love of mankind, especially by doing good deeds",
+    "Philistine": "a smugly ignorant person with no appreciation of intellectual or artistic matters",
+    "Pious": "reverent or devout; outwardly (and sometimes falsely) reverent or devout; hypocritical",
+    "Pivotal": "crucial",
+    "Placate": "to pacify; to appease; to soothe",
+    "Plaintive": "expressing sadness or sorrow",
+    "Platitude": "a dull or trite remark; a cliche",
+    "Plebeian": "common; vulgar; low-class",
+    "Plethora": "an excess",
+    "Poignant": "painfully emotional; extremely moving; sharp or astute",
+    # Section 65
 }
 
 print(f"Current number of words = {len(word_dict)}")
