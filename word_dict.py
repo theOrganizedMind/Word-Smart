@@ -695,6 +695,33 @@ word_dict = {
     "Plethora": "an excess",
     "Poignant": "painfully emotional; extremely moving; sharp or astute",
     # Section 65
+    "Polarize": "to break up into opposing factions or groupings",
+    "Polemic": "a powerful argument often made to attack or refute a controversial issue",
+    "Ponderous": "so large as to be clumsy; massive; dull",
+    "Portent": "an omen; a sign of something coming in the future",
+    "Postulate": "something accepted as true without proof; an axiom",
+    "Pragmatic": "practical; down-to-earth; based on experience rather than theory",
+    "Precedent": "an earlier example or model of something",
+    "Precept": "a rule to live by; a principle establishing a certain kind of "
+    "action or behavior; a maxim",
+    "Precipitate": "to cause to happen abruptly",
+    "Precipitous": "steep",
+    # Section 66
+    "Preclude": "to prevent something from ever happening",
+    "Precursor": "forerunner; something that goes before and anticipates or paves"
+    " the way for whatever it is that follows",
+    "Predilection": "a natural preference for something",
+    "Preeminent": "better than anyone else; outstanding; supreme",
+    "Preempt": "to seize something by prior right",
+    "Premise": "an assumption; the basis for a conclusion",
+    "Prepossess": "to preoccupy; to influence beforehand or prejudice; to make "
+    "a good impression on beforehand",
+    "Prerogative": "a right or privilege connected exclusively with a position "
+    ", a person, a class, a nation, or some other group or classification",
+    "Prevail": "to triumph; to overcome rivals; to persuade",
+    "Pristine": "original; unspoiled; pure",
+    "Prodigal": "wastefully extravagant",
+    # Section 67
 }
 
 print(f"Current number of words = {len(word_dict)}")
