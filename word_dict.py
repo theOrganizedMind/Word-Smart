@@ -722,6 +722,33 @@ word_dict = {
     "Pristine": "original; unspoiled; pure",
     "Prodigal": "wastefully extravagant",
     # Section 67
+    "Prodigious": "extraordinary; enormous",
+    "Prodigy": "an extremely talented child; an extraordinary accomplishment or occurence",
+    "Profane": "not having to do with religion; irreverent; blasphemous",
+    "Profess": "to declare; to declare falsely or pretend",
+    "Proficient": "thoroughly competent; skillful; good as something",
+    "Profligate": "extravagantly wasteful and usually wildly immoral",
+    "Profound": "deep",
+    "Profuse": "flowing; extravagant",
+    "Proletariat": "the industrial working class",
+    "Proliferate": "to spread or grow rapidly",
+    "Prolific": "abundantly productive; fruitful or fertile",
+    # Section 68
+    "Promulgate": "to proclaim; to publicly or formally declare something",
+    "Propensity": "a natural inclination or tendency; a predilection",
+    "Propitious": "marked by favorable signs or conditions",
+    "Proponent": "an advocate; a supporter of a position",
+    "Proprietary": "characteristic of an owner of property; constituting property",
+    "Propriety": "properness; good manners",
+    "Prosaic": "dull; unimaginative; like prose (as opposed to poetry)",
+    "Proscribe": "to outlaw; to prohibit",
+    "Proselytize": "to convert (someone) from one religion or doctrine to another; "
+    "to recruit converts to a religion or doctrine",
+    "Protagonist": "the leading character in a novel, play, or other work; "
+    "a leader or champion",
+    "Protract": "to prolong",
+    "Provident": "preparing for the future; providing for the future; frugal",
+    # Section 69
 }
 
 print(f"Current number of words = {len(word_dict)}")
