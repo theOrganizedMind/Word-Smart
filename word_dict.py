@@ -749,6 +749,30 @@ word_dict = {
     "Protract": "to prolong",
     "Provident": "preparing for the future; providing for the future; frugal",
     # Section 69
+    "Provincial": "limited in outlook to one's own small corner of the world; narrow",
+    "Provisional": "conditional; temporary; tentative",
+    "Proximity": "nearness",
+    "Prudent": "careful; having foresight",
+    "Purported": "rumored; claimed",
+    "Putative": "commonly accepted; supported; reputed",
+    # Section 70
+    "Qualify": "to modify or restrict",
+    "Qualitative": "having to do with the quality of something",
+    "Querulous": "complaining; grumbling; whining",
+    "Quixotic": "romantic or idealistic to a foolish or impractical degree",
+    # Section 71
+    "Ramification": "a consequence; a branching out",
+    "Rancor": "bitter, long-lasting ill will or resentment",
+    "Rapacious": "greedy; plundering; avaricious",
+    "Rebuke": "to criticize sharply",
+    "Rebut": "to contradict; to argue in opposition to; to prove to be false",
+    "Recalcitrant": "stubbornly defiant of authority or control; disobedient",
+    "Recant": "to publicly take back and deny (something previously said or believed); "
+    "to openly confess error",
+    "Reciprocal": "mutual; shared; interchangeable",
+    "Reclusive": "hermitlike; withdrawn from society",
+    "Recondite": "hard to understand; over one's head",
+    # Section 72
 }
 
 print(f"Current number of words = {len(word_dict)}")
