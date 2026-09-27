@@ -773,6 +773,42 @@ word_dict = {
     "Reclusive": "hermitlike; withdrawn from society",
     "Recondite": "hard to understand; over one's head",
     # Section 72
+    "Recrimination": "a bitter counteraccusation, or the act of making a bitter counteraccusation",
+    "Redolent": "fragrant",
+    "Redundant": "unnecessarily repetitive; excessive; excessively wordy",
+    "Refute": "to prove to be false; to disprove",
+    "Reiterate": "to say again; to repeat",
+    "Relegate": "to banish; to send away",
+    "Relentless": "continuous; unstoppable",
+    "Relinquish": "to release or let go of; to surrender; to stop doing",
+    "Remonstrate": "to argue against; to protest: to raise objections",
+    "Renaissance": "a rebirth or revival",
+    "Renounce": "to give up formally or resign; to disown; to have nothing to do with anymore",
+    # Section 73
+    "Reparation": "paying back; making amends; compensation",
+    "Repercussion": "a consequence; an indirect effect",
+    "Replenish": "to fill again; to resupply; to restore",
+    "Replete": "completely filled; abounding",
+    "Reprehensible": "worthy of severe blame or censure",
+    "Reprisal": "a military action undertaken in revenge for another; "
+    "an act of taking 'an eye for an eye'",
+    "Reproach": "to scold; usually in disappointment; to blame; to disgrace",
+    "Reprove": "to criticize mildly",
+    "Repudiate": "to reject; to renounce; to disown; to have nothing to do with",
+    "Requisite": "required; necessary",
+    "Resolute": "determined; firm; unwavering",
+    # Section 74
+    "Respite": "a period of rest or relief",
+    "Reticent": "quiet, restrained; reluctant to speak, especially about oneself",
+    "Revere": "to respect highly; to honor",
+    "Rhetoric": "the art of formal speaking or writing; inflated discourse",
+    "Rigorous": "strict; harsh; severe",
+    "Robust": "strong and healthy; vigorous",
+    "Rogue": "a criminally dishonest person; a scoundrel",
+    "Rudimentary": "basic; crude; unformed or undeveloped",
+    "Ruminate": "to contemplate; to ponder; to mull over",
+    "Rustic": "rural; lacking urban comforts or sophistication; primitive",
+    # Section 75
 }
 
 print(f"Current number of words = {len(word_dict)}")
